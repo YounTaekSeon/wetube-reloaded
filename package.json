@@ -7,7 +7,7 @@
     "url": "git+https://github.com/YounTaekSeon/wetube-reloaded.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "YounTaekSeon<youneciohc@gmail.com>",
   "license": "MIT",
